@@ -1,21 +1,21 @@
 {
     "name": "CASystem-Ticket Management",
     "short_name": "Ticket Management",
-    "start_url": "/CASystem-Tickets-Management/",
+    "start_url": "/ticket-todo-managment/",
     "display": "standalone",
     "background_color": "#ffffff",
     "lang": "en",
-    "scope": "/CASystem-Tickets-Management/",
+    "scope": "/ticket-todo-managment/",
     "description": "Modern ticket management system",
     "theme_color": "#ffffff",
     "icons": [
         {
-            "src": "/CASystem-Tickets-Management/icon-192x192.png",
+            "src": "/ticket-todo-managment/icon-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/CASystem-Tickets-Management/icon-512x512.png",
+            "src": "/ticket-todo-managment/icon-512x512.png",
             "sizes": "512x512",
             "type": "image/png"
         }
